@@ -748,8 +748,7 @@ input[type='checkbox'] {
 /*    04. Header     */
 /*********************/
 .header {
-	background: linear-gradient(to bottom right, rgba(72, 72, 212, 0), rgba(241, 104, 104, 0)), url('https://user-images.githubusercontent.com/48156370/84520314-bedfa600-aca9-11ea-953a-306de810e892.JPG')
-') center center no-repeat;
+	background: url('https://user-images.githubusercontent.com/48156370/84520314-bedfa600-aca9-11ea-953a-306de810e892.JPG');
 	background-size: cover;
 }
 
