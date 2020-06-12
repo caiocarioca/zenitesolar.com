@@ -748,7 +748,7 @@ input[type='checkbox'] {
 /*    04. Header     */
 /*********************/
 .header {
-	background: url('https://user-images.githubusercontent.com/48156370/84520314-bedfa600-aca9-11ea-953a-306de810e892.JPG');
+	background: url('.../images/zenite_capa.JPG');
 	background-size: cover;
 }
 
