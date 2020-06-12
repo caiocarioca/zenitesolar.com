@@ -748,7 +748,7 @@ input[type='checkbox'] {
 /*    04. Header     */
 /*********************/
 .header {
-	background: url('.../images/zenite_capa.JPG');
+	background: url('../images/zenite_capa.JPG');
 	background-size: cover;
 }
 
