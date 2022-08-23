@@ -10,19 +10,24 @@ tags:
 ---
 
 Ficou conhecendo a Zênite pelo Hall de entrada do IFSC?
+
 Nos conheceu pelo Instagram?
+
 Achou interessante e quer participar?
+
 Então essa é a sua chance!
 
 O projeto Zênite Solar está aqui para anunciar que:
 
 # O processo seletivo está aberto!
 
+É a sua oportunidade de entrar na equipe embarcação solar mais inovadora do Brasil!
+
 ### Quais os Pré-requisitos?
 
 - Estar Regularmente matriculado no IFSC
 - Interesse pelo tema do Projeto
-- Participação Voluntária (Mínimo de 10 horas semanais)
+- Participação Voluntária (Mínimo de 8 horas semanais)
 - Disponibilidade para viagens ocasionais 
 
 ### Como participar?
@@ -33,9 +38,9 @@ O projeto Zênite Solar está aqui para anunciar que:
 
 ![Jóia](https://github.com/caiocarioca/zenitesolar.com/blob/983a7c26ff9019d9f92450b5b93537f5773d588f/assets/images/joinha.JPG)
 
-### Esperamos por você!
+#### Esperamos por você!
 
 
-[Link do Formulário]: https://mail.google.com/mail/u/0/#inbox?compose=new
+[Link do Formulário]: https://docs.google.com/forms/d/e/1FAIpQLSeazdQZZJsB7qAK7StlIMi3HFkO7ehQRJlHJ08tdnUUBWdMNg/viewform?vc=0&c=0&w=1&flr=0
 
 
