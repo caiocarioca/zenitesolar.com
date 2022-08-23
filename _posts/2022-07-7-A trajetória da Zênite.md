@@ -23,4 +23,4 @@ Em 2017 a Zênite Solar seguiu se aprimorando e mostrando o porquê é uma equip
 
 ![Entrevista feita com o integrante Marcos](https://github.com/caiocarioca/zenitesolar.com/blob/master/assets/images/entrevista.JPG)
 
-Já em 2018, a equipe novamente mostrou a sua potência e chegou ao vice-campeonato na categoria livre no Desafio Solar Brasil 2018, além de emplacar o tetracampeonato do Prêmio Fernando Amorim. Era o quarto título em sequência na categoria em sequência.
+Já em 2018, a equipe novamente mostrou a sua potência e chegou ao vice-campeonato na categoria livre no Desafio Solar Brasil 2018, além de emplacar o tetracampeonato do Prêmio Fernando Amorim. Era o quarto título em sequência na categoria.
