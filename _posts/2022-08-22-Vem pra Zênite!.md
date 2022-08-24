@@ -36,7 +36,7 @@ O projeto Zênite Solar está aqui para anunciar que:
 
 ## *[Link do Formulário]*
 
-![Jóia](https://github.com/caiocarioca/zenitesolar.com/blob/983a7c26ff9019d9f92450b5b93537f5773d588f/assets/images/joinha.JPG)
+![Jóia](../../assets/images/joinha.JPG)
 
 #### Esperamos por você!
 
